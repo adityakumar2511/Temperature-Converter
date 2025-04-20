@@ -13,7 +13,7 @@ A simple and interactive temperature converter that converts values from **Celsi
 
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla)
+- JavaScript
 
 ## 🚀 Formula Used
 °F = (°C × 9/5) + 32
